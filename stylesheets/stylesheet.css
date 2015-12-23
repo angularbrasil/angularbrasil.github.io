@@ -24,3 +24,7 @@ a {
 .footer {
   padding: 50px 0 30px 0;
 }
+
+.v-center {
+  text-align: center;
+}
